@@ -1,0 +1,41 @@
+{
+  "name": "Epic Fire Card #12",
+  "description": "A epic fire card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmWaiwWG3XqpaNLaQFnRR5zgffeodZgzkCgWsYSCFQ1kHU",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 8,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 9,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Common Water Card #1",
+  "description": "A common water card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmcF4wAcpAvYtTR6WKG8jeXumbpewbCEaUcsJnCZSbvgub",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 3,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rare Fire Card #6",
+  "description": "A rare fire card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmS4UzKWPy4jnSNCpWS2Q2CKjz5mYy8kd9sGzFswwnijrV",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 6,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 6,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

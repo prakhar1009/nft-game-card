@@ -1,0 +1,41 @@
+{
+  "name": "Epic Dark Card #16",
+  "description": "A epic dark card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmW7sFSWF6D5zovF8SWgMFVtPZCfpGkUQZwvic7Ly9bWcn",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 8,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

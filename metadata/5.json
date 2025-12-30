@@ -1,0 +1,41 @@
+{
+  "name": "Common Light Card #5",
+  "description": "A common light card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmbKLJqrvMCGCGZL3hR9Z32ECoYoBQaqQp7Y7JdhSVuPUG",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 3,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

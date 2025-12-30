@@ -1,0 +1,41 @@
+{
+  "name": "Rare Lightning Card #9",
+  "description": "A rare lightning card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmaVQoDWWfynpos26q9Ww1Dims7kFhNzv3EvjsmsQwsN4k",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 6,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Legendary Lightning Card #21",
+  "description": "A legendary lightning card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmPgZyMHVtU1QVYzqVXjqW9z46xuJBGjFqZZtHNo6rphG8",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 11,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 9,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

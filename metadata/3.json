@@ -1,0 +1,41 @@
+{
+  "name": "Common Lightning Card #3",
+  "description": "A common lightning card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmSSbccKpGqJC2n47xiPFHNp1xLBgF61HEZbNThisB9ifZ",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 4,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 3,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

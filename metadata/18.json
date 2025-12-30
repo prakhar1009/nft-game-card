@@ -1,0 +1,41 @@
+{
+  "name": "Legendary Fire Card #18",
+  "description": "A legendary fire card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmZXW4jGxggLsWcrxKY5nXdmLRJdrHUkJKZDhLbZ2sokgB",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 9,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 10,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}

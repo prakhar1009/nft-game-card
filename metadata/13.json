@@ -1,0 +1,41 @@
+{
+  "name": "Epic Water Card #13",
+  "description": "A epic water card from the NFT Card Game on Base Sepolia. Battle with your cards to earn XP and climb the leaderboard!",
+  "image": "ipfs://QmTYFN8xbS4LgQYhYJuajNnEv8SPkGw6tBtyEFZjLSNFGK",
+  "external_url": "https://nft-card-game.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "XP",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Wins",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Losses",
+      "value": 0,
+      "display_type": "number"
+    }
+  ]
+}
