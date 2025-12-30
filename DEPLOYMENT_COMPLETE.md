@@ -2,7 +2,9 @@
 
 ## 🎉 Success Summary
 
-Your NFT Card Battle Game has been successfully prepared and committed to GitHub with complete Vercel deployment configuration!
+Your NFT Card Battle Game has been successfully deployed to Vercel and is now live!
+
+**🌐 Live URL**: https://frontend-three-teal-izetgwb7yk.vercel.app/
 
 ---
 
@@ -149,11 +151,10 @@ vercel --prod
 
 ## 🎯 After Deployment
 
-Once deployed, your app will be live at:
+Your app is now live at:
 ```
-https://nft-card-game-base.vercel.app
+https://frontend-three-teal-izetgwb7yk.vercel.app/
 ```
-(or your custom domain)
 
 ### Test Your Deployment
 
@@ -216,11 +217,13 @@ Your NFT Card Battle Game is ready for deployment!
 - ✅ On-chain progression
 - ✅ Production-ready deployment
 
-**Next Action:**
-Go to https://vercel.com/new and deploy your game in 2 minutes!
+**✅ DEPLOYED!**
+Your game is live and ready to play at: https://frontend-three-teal-izetgwb7yk.vercel.app/
 
 ---
 
-**Made with ❤️ on Base Sepolia**
+**Made with ❤️ by Prakhar Mishra on Base Sepolia**
 
-Contract: `0xF4756D6855f95C07c0FC3E327F28665aeccA9F48`
+**Live Demo**: https://frontend-three-teal-izetgwb7yk.vercel.app/
+**Contract**: `0xF4756D6855f95C07c0FC3E327F28665aeccA9F48`
+**GitHub**: https://github.com/prakhar1009/nft-game-card

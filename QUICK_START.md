@@ -88,11 +88,10 @@ vercel --prod
 
 ## 🎯 After Deployment
 
-Your app will be live at:
+Your app is now live at:
 ```
-https://nft-card-game-base.vercel.app
+https://frontend-three-teal-izetgwb7yk.vercel.app/
 ```
-(or your custom URL)
 
 ### Test Checklist
 
@@ -175,8 +174,10 @@ cd frontend && npm run dev
 
 ## 🎉 You're All Set!
 
-Everything is ready for deployment. Just follow Method 1 or Method 2 above to get your game live on Vercel!
+✅ **DEPLOYED!** Your game is now live on Vercel!
 
-**Estimated Time**: 2-3 minutes
+**Live URL**: https://frontend-three-teal-izetgwb7yk.vercel.app/
+
+**Start Playing**: Visit the link above and connect your MetaMask wallet to start battling!
 
 **Questions?** Check `DEPLOYMENT_GUIDE.md` or `VERCEL_DEPLOYMENT.md` for detailed instructions.

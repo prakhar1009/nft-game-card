@@ -132,12 +132,10 @@ vercel --prod
 
 ### Option 1: Use Vercel Domain (Free)
 
-Your app is automatically available at:
+Your app is now live at:
 ```
-https://nft-game-card.vercel.app
+https://frontend-three-teal-izetgwb7yk.vercel.app/
 ```
-
-### Option 2: Custom Domain
 
 1. **Purchase Domain**
    - Namecheap, GoDaddy, Google Domains, etc.
@@ -427,3 +425,7 @@ Your deployment is successful when:
 ---
 
 **Congratulations! Your NFT Card Battle Game is now live! 🎊**
+
+**🌐 Play Now**: https://frontend-three-teal-izetgwb7yk.vercel.app/
+**👨‍💻 Developer**: Prakhar Mishra (@prakhar1009)
+**📝 GitHub**: https://github.com/prakhar1009/nft-game-card

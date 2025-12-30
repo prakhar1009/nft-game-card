@@ -6,6 +6,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![Base](https://img.shields.io/badge/Base-Sepolia-0052FF?logo=coinbase)](https://base.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://frontend-three-teal-izetgwb7yk.vercel.app/)
 
 ![Game Banner](docs/banner.png)
 
@@ -107,8 +108,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/nft-card-game-base.git
-cd nft-card-game-base
+git clone https://github.com/prakhar1009/nft-game-card.git
+cd nft-game-card
 
 # 2. Install backend dependencies
 npm install
@@ -139,6 +140,8 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) 🎉
+
+**Or visit the live demo**: [https://frontend-three-teal-izetgwb7yk.vercel.app/](https://frontend-three-teal-izetgwb7yk.vercel.app/)
 
 ---
 
@@ -336,10 +339,10 @@ struct CardStats {
 
 #### Base Sepolia Testnet
 ```
-CardNFT: 0x... (deploy and update)
+CardNFT: 0xF4756D6855f95C07c0FC3E327F28665aeccA9F48
 ```
 
-View on [BaseScan](https://sepolia.basescan.org/address/CONTRACT_ADDRESS)
+View on [BaseScan](https://sepolia.basescan.org/address/0xF4756D6855f95C07c0FC3E327F28665aeccA9F48)
 
 ---
 
@@ -545,11 +548,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Links
 
-- **Website**: [https://your-game-url.vercel.app](https://your-game-url.vercel.app)
-- **Demo Video**: [YouTube Link](https://youtube.com/...)
-- **Contract**: [BaseScan](https://sepolia.basescan.org/address/...)
-- **Twitter**: [@YourTwitter](https://twitter.com/...)
-- **Discord**: [Join Community](https://discord.gg/...)
+- **Live Demo**: [https://frontend-three-teal-izetgwb7yk.vercel.app/](https://frontend-three-teal-izetgwb7yk.vercel.app/)
+- **GitHub**: [https://github.com/prakhar1009/nft-game-card](https://github.com/prakhar1009/nft-game-card)
+- **Contract**: [BaseScan](https://sepolia.basescan.org/address/0xF4756D6855f95C07c0FC3E327F28665aeccA9F48)
+- **Developer**: [@prakhar1009](https://github.com/prakhar1009)
 
 ---
 
@@ -569,9 +571,9 @@ New to Web3 development? Check these out:
 
 ### 🎮 Start Playing Now!
 
-**[Launch Game](https://your-game-url.vercel.app)** | **[View Contract](https://sepolia.basescan.org)** | **[Watch Demo](https://youtube.com)**
+**[Launch Game](https://frontend-three-teal-izetgwb7yk.vercel.app/)** | **[View Contract](https://sepolia.basescan.org/address/0xF4756D6855f95C07c0FC3E327F28665aeccA9F48)** | **[GitHub Repo](https://github.com/prakhar1009/nft-game-card)**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Prakhar Mishra](https://github.com/prakhar1009)
 
 ⭐ Star this repo if you like it!
 
